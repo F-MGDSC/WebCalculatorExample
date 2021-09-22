@@ -1,3 +1,0 @@
-# calculator# WebCalculatorExample
-# WebCalculatorExample
-# WebCalculatorExample
